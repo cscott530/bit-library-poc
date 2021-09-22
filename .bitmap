@@ -9,5 +9,17 @@
  */
 
 {
+    "components/button": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "components/button"
+    },
+    "components/header": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "components/header"
+    },
     "$schema-version": "14.9.0"
 }
